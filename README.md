@@ -10,3 +10,5 @@ disease.py, make a query to openFDA API, and save the results to the spread shee
 
 Q3: What drugs tend to be taken together?
 drug.py, make a query to openFDA API, and save the results to the spread sheet and plot the bar plot.
+
+The results are saved in the output folder.
